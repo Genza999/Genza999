@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/django_rest_framework-E34F26?logo=django&style=for-the-badge)
 ![](https://img.shields.io/badge/graphql-%23CC6699?logo=graphql&style=for-the-badge&logoColor=blue)<br>
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?logo=Redis&style=for-the-badge&logoColor=black)
 ![](https://img.shields.io/badge/MySQL-0081CB?logo=MySQL&style=for-the-badge&logoColor=orange)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=black)<br>
 ![](https://img.shields.io/badge/Git-F05032?logo=Git&style=for-the-badge&logoColor=black)
