@@ -4,7 +4,7 @@
 
 :computer: I am a **Backend Developer** working remotely at <a href="https://www.certainly.io/">Certainly</a>
 
-:pushpin: Currently based in Uganda
+:pushpin: Currently based in Kampala, Uganda
 
 :writing_hand: I write about the backend technologies I use, personel projects and anything I find resourceful. Check out my <a href="https://davidkg.medium.com/">blog</a>
 
