@@ -34,6 +34,12 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&style=for-the-badge&logoColor=white)](https://twitter.com/TheefirstDavid)
 
 
+## My recent articles
+
+- <a href="https://davidkg.medium.com/uploading-images-using-django-graphene-django-and-graphene-file-upload-9f2e9bfc949d">Uploading images/files using Django(graphene-django) and graphene-file-upload</a><br>
+- <a href="https://davidkg.medium.com/python-library-that-displays-readme-file-content-in-cli-87b4813c1638">Python Library that displays readme-file content in CLI</a>
+
+
 ## Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/Genza999/count.svg)
