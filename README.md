@@ -8,7 +8,8 @@
 
 :writing_hand: I write about the backend technologies I use, personel projects and anything I find resourceful. Check out my <a href="https://davidkg.medium.com/">blog</a>
 
-:v: I like watching movies, anime, listening to :headphones: lofi music and constantly learning/improving my skills
+:v: I like watching movies, anime, listening to :headphones: lofi music and constantly learning/improving my skills.
+    Currently learning rust and solana development.
 
 
 ## My Skills
