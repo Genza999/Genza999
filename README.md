@@ -1,8 +1,6 @@
 # Hello there, I'm Kisekka David
 
-![giphy](https://raw.githubusercontent.com/Genza999/Genza999/master/images/write.gif)
-
-:computer: I am a **Backend Developer** working remotely at <a href="https://www.certainly.io/">Certainly</a>
+:computer: I am a **Backend Python Developer with over 3 years of proffesional experience**
 
 :pushpin: Currently based in Kampala, Uganda
 
