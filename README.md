@@ -1,19 +1,19 @@
 # Hello there, I'm Kisekka David
 
-:computer: I am a **Backend Python Developer with over 4 years of proffesional experience**
+:computer: I am a **Backend Python Developer with over 4 years of professional experience**
 
 :pushpin: Currently based in Kampala, Uganda
 
-:writing_hand: I write about the backend technologies I use, personel projects and anything I find resourceful. Check out my <a href="https://davidkg.medium.com/">blog</a>
+:writing_hand: I write about the backend technologies I use, personal projects, and anything I find resourceful. Check out my <a href="https://davidkg.medium.com/">blog</a>
 
-:v: I like watching movies, anime, listening to :headphones: lofi music and constantly learning/improving my skills.
-    Currently learning rust and solana development.
+:v: I like watching movies, and anime, listening to :headphones: lofi music and constantly learning/improving my skills.
 
 
 ## My Skills
 
 ![](https://img.shields.io/badge/python-python/?logo=python&style=for-the-badge&color=blue&logoColor=yellow)<br>
 ![](https://img.shields.io/badge/django-django/?logo=django&style=for-the-badge)
+![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![](https://img.shields.io/badge/flask-flask/?logo=flask&style=for-the-badge&color=black)
 ![](https://img.shields.io/badge/django_rest_framework-E34F26?logo=django&style=for-the-badge)
 ![](https://img.shields.io/badge/graphql-%23CC6699?logo=graphql&style=for-the-badge&logoColor=blue)<br>
@@ -38,11 +38,6 @@
 
 - <a href="https://davidkg.medium.com/uploading-images-using-django-graphene-django-and-graphene-file-upload-9f2e9bfc949d">Uploading images/files using Django(graphene-django) and graphene-file-upload</a><br>
 - <a href="https://davidkg.medium.com/python-library-that-displays-readme-file-content-in-cli-87b4813c1638">Python Library that displays readme-file content in CLI</a>
-
-
-## Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/Genza999/count.svg)
 
 
 
