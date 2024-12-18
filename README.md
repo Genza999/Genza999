@@ -6,7 +6,7 @@
 
 :writing_hand: I write about the backend technologies I use, personal projects, and anything I find resourceful. Check out my <a href="https://davidkg.medium.com/">blog</a>
 
-:v: I like watching movies, and anime, listening to :headphones: lofi music and constantly learning/improving my skills.
+:v: I like watching movies, and anime, listening to :headphones: lofi music and constant learning or improving my skills.
 
 
 ## My Skills
